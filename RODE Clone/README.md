@@ -1,6 +1,6 @@
-# Project Name : RODE Clone 
+ # Project Name : RODE Clone 
 
-## Tech Stack : Tailwind , HTML
+## Tech Stack : Tailwind CSS , HTML
 #
 
 ## Special Thanks : Hitesh Choudhary Sir
@@ -13,5 +13,6 @@ It take time to build but honest not taken much time because previously i done l
 (Netlify Deployed Link :)[https://rode-clone-responsive.netlify.app/]
 
 ## RODE Project Front-Page
+<img src="RODE thumbnail.PNG">
 
-<img src="RODE thumbnail.png">
+ 
